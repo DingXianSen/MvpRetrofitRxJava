@@ -24,7 +24,7 @@ import java.util.List;
 
 /**
  * @ClassName: MultipleItemQuickAdapter
- * @Description: 总的适配器
+ * @Description: 总的适配器 gitHub代码提交
  * @Author: dingchao
  * @Date: 2018/8/10 16:06
  */
