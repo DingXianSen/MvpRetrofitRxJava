@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pu" />
+
+
+    <TextView
+        android:layout_width="389dp"
+        android:layout_height="95dp"
+        android:layout_marginLeft="10dp"
+        android:background="#e63030"
+        android:text="文字适配"
+        android:textColor="#fff"
+
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="355dp"
+        android:layout_height="58dp"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="20px"
+        android:background="#e63030"
+        android:text="文字适配"
+        android:textColor="#fff"
+        android:textSize="9sp" />
+
+    <TextView
+        android:layout_width="260px"
+        android:layout_height="194px"
+        android:layout_marginTop="20px"
+        android:background="#e63030" />
+
+    <TextView
+        android:layout_width="1022px"
+        android:layout_height="323px"
+        android:layout_marginLeft="29px"
+        android:layout_marginRight="29px"
+        android:layout_marginTop="20px"
+        android:background="#e63030"
+        android:text="文字适配"
+        android:textColor="#fff"
+        android:textSize="49px" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:background="#fff"
+        android:drawableLeft="@drawable/ic_launcher_background"
+        android:drawablePadding="20px"
+        android:drawableRight="@drawable/home_sel"
+        android:gravity="center_vertical"
+        android:paddingLeft="20px"
+        android:paddingRight="20px"
+        android:text="我的卡券"
+        android:textSize="16sp" />
+
+</LinearLayout>

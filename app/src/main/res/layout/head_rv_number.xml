@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!--数字展示区域-->
+    <TextView
+        android:id="@+id/tv_num"
+        android:layout_width="match_parent"
+        android:layout_height="300px"
+        android:gravity="center"
+        android:background="#1986df"
+        android:text="数字展示区域" />
+</android.support.constraint.ConstraintLayout>
